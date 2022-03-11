@@ -28,5 +28,10 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "endroid/installer": true
+        }
     }
 }
